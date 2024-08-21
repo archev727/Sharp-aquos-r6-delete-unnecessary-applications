@@ -1,0 +1,1 @@
+# Sharp-aquos-r6-delete-unnecessary-applications
