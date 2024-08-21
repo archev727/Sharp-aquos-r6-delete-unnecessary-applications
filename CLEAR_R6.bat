@@ -1,0 +1,81 @@
+@echo off
+adb devices
+
+adb shell pm uninstall -k --user 0 jp.co.sharp.android.gaming2
+adb shell pm uninstall -k --user 0 com.google.android.apps.podcasts
+adb shell pm uninstall -k --user 0 jp.softbank.mb.bizlock
+adb shell pm uninstall -k --user 0 com.felicanetworks.mfm.main
+adb shell pm uninstall -k --user 0 jp.softbank.mb.basketball
+adb shell pm uninstall -k --user 0 com.google.android.apps.youtube.music
+adb shell pm uninstall -k --user 0 jp.softbank.mb.ichinaviclt
+adb shell pm uninstall -k --user 0 jp.softbank.mb.mimamorimap
+adb shell pm uninstall -k --user 0 jp.co.sharp.android.emopar
+adb shell pm uninstall -k --user 0 com.google.ar.core
+adb shell pm uninstall -k --user 0 jp.softbank.mb.plusmessage
+adb shell pm uninstall -k --user 0 com.facebook.appmanager
+adb shell pm uninstall -k --user 0 com.felicanetworks.mfs
+adb shell pm uninstall -k --user 0 jp.co.sharp.android.shselfcheck
+adb shell pm uninstall -k --user 0 jp.co.yahoo.android.paypayfleamarket
+adb shell pm uninstall -k --user 0 jp.co.sharp.android.friendlink
+adb shell pm uninstall -k --user 0 jp.softbank.mb.tdrl
+adb shell pm uninstall -k --user 0 jp.co.sharp.android.paytriggerw
+adb shell pm uninstall -k --user 0 jp.softbank.mb.dmb
+adb shell pm uninstall -k --user 0 com.felicanetworks.mfc
+adb shell pm uninstall -k --user 0 jp.co.yahoo.android.sports.sportsnavi
+adb shell pm uninstall -k --user 0 jp.co.yahoo.android.mtop.shortcut
+adb shell pm uninstall -k --user 0 jp.softbank.mb.mysoftbankweb
+adb shell pm uninstall -k --user 0 jp.softbank.mb.securitypack
+adb shell pm uninstall -k --user 0 jp.co.bbss.android.security.sagiwall_softbank
+adb shell pm uninstall -k --user 0 jp.co.sharp.android.shrobodockservice
+adb shell pm uninstall -k --user 0 com.facebook.services
+adb shell pm uninstall -k --user 0 jp.co.softbank.wispr.froyo
+adb shell pm uninstall -k --user 0 jp.co.sharp.android.karadamate
+adb shell pm uninstall -k --user 0 jp.softbank.mb.parentalcontrols
+adb shell pm uninstall -k --user 0 com.google.android.apps.subscriptions.red
+adb shell pm uninstall -k --user 0 jp.co.sharp.android.beta.dmsettings
+adb shell pm uninstall -k --user 0 com.netflix.mediaclient
+adb shell pm uninstall -k --user 0 jp.softbank.mb.cbrl
+adb shell pm uninstall -k --user 0 jp.ne.paypay.android.app
+adb shell pm uninstall -k --user 0 jp.co.sharp.android.emopa.overlayservice
+adb shell pm uninstall -k --user 0 jp.co.yahoo.android.ybackup
+adb shell pm uninstall -k --user 0 jp.co.sharp.android.restoreguide
+adb shell pm uninstall -k --user 0 jp.softbank.mb.fivegservice
+adb shell pm uninstall -k --user 0 jp.co.softbank.OfficialApp
+adb shell pm uninstall -k --user 0 jp.softbank.mb.survey
+adb shell pm uninstall -k --user 0 com.google.android.videos
+adb shell pm uninstall -k --user 0 jp.softbank.mb.datamigration
+adb shell pm uninstall -k --user 0 jp.co.sharp.android.LockWeatherWidget
+adb shell pm uninstall -k --user 0 jp.softbank.mb.sbarservice
+adb shell pm uninstall -k --user 0 jp.softbank.beginnerguide
+adb shell pm uninstall -k --user 0 jp.co.sharp.android.dash.uploader
+adb shell pm uninstall -k --user 0 jp.softbank.meiwakudenwablock
+adb shell pm uninstall -k --user 0 jp.co.sharp.android.antitok
+adb shell pm uninstall -k --user 0 jp.co.yahoo.android.ebookjapan.preinstall
+adb shell pm uninstall -k --user 0 com.facebook.system
+adb shell pm uninstall -k --user 0 com.facebook.katana
+adb shell pm uninstall -k --user 0 com.google.android.apps.wearables.maestro.companion
+adb shell pm uninstall -k --user 0 jp.co.sharp.android.emopar.internalcontent
+adb shell pm uninstall -k --user 0 jp.co.sharp.android.dash.collector2
+adb shell pm uninstall -k --user 0 jp.co.sharp.android.emopar.internalcontent2
+adb shell pm uninstall -k --user 0 jp.co.softbank.livr
+adb shell pm uninstall -k --user 0 jp.co.sharp.android.iwnnime.ml
+adb shell pm uninstall -k --user 0 jp.co.yahoo.android.yshopping
+adb shell pm uninstall -k --user 0 com.adobe.psmobile
+adb shell pm uninstall -k --user 0 com.google.android.apps.magazines
+adb shell pm uninstall -k --user 0 jp.co.sharp.android.sgsc
+adb shell pm uninstall -k --user 0 jp.co.sharp.android.qrreader
+adb shell pm uninstall -k --user 0 com.mcafee.vsm_android_sbm
+adb shell pm uninstall -k --user 0 jp.co.sharp.android.pedometersettingapp
+adb shell pm uninstall -k --user 0 com.google.android.apps.tachyon
+adb shell pm uninstall -k --user 0 sharp.jp.android.makersiteappli
+adb shell pm uninstall -k --user 0 jp.softbank.mb.tdrl
+adb shell pm uninstall -k --user 0 jp.co.sharp.android.locationinfoquoter2
+adb shell pm uninstall -k --user 0 jp.co.sharp.android.launcher3.simple
+adb shell pm uninstall -k --user 0 jp.co.sharp.android.launcherguide
+adb shell pm uninstall -k --user 0 com.amazon.avod.thirdpartyclient
+adb shell pm uninstall -k --user 0 jp.softbank.mb.amcn
+adb shell pm uninstall -k --user 0 jp.co.sharp.android.smarthomehub
+
+
+
+:exit
